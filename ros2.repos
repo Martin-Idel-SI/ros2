@@ -15,18 +15,10 @@ repositories:
     type: git
     url: https://github.com/ament/ament_package.git
     version: master
-  ament/ament_tools:
-    type: git
-    url: https://github.com/ament/ament_tools.git
-    version: master
   ament/googletest:
     type: git
     url: https://github.com/ament/googletest.git
     version: ros2
-  ament/osrf_pycommon:
-    type: git
-    url: https://github.com/osrf/osrf_pycommon.git
-    version: master
   ament/uncrustify:
     type: git
     url: https://github.com/ament/uncrustify.git
